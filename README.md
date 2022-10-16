@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <b>BIO</b><br>
  I'm a Software Engineer studyding in YUNNAN, China.<br>
-⚙️ I use daily: JAVA,Spring,SpringCloude,Vue,Springboot,Python<br>
+⚙️ I use daily: Java,Spring,SpringCloude,Vue,Springboot,Python<br>
 🌱 Learning all about safeDevelopement and JVM.<br>
-📫 How to reach me:wsmyrygl@gmail.com,&nbsp;[Twitter]([https://mobile.twitter.com/diram_b](https://twitter.com/mrjianyi))
+📫 How to reach me:wsmyrygl@gmail.com,&nbsp;[Twitter](https://mobile.twitter.com/diram_b](https://twitter.com/mrjianyi)
 
 <br><br>
